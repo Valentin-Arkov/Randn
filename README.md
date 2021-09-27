@@ -1,2 +1,2 @@
 # Randn
-Generating random numbers
+Generating random numbers using Python
